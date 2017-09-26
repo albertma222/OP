@@ -1,2 +1,2 @@
 # OP
-Original Projects for AP Java
+Original Projects for APCS @ Lowell
